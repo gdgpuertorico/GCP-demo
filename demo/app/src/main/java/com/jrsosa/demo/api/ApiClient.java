@@ -27,7 +27,7 @@ public class ApiClient {
 
     public interface DemoApiInterface {
         @GET("/getTopMusicTracks")
-        void getTopMusicTracks(Callback<DemoWrapper> businessCallback);
+        void getTopMusicTracks(Callback<DemoWrapper> responseCallback);
 
     }
 
