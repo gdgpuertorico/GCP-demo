@@ -15,6 +15,9 @@ Libraries:
 <a href="http://square.github.io/picasso/">Picasso<a/> Picasso for image dowloading and caching.
 
 
+<img src="https://github.com/JRSosa/TechPR/blob/master/screenshot.png" width="450px" height="800px" />
+
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Juan Martí(jmarti326), Joel R Sosa (JRsosa)
