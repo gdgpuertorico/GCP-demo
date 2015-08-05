@@ -5,11 +5,13 @@ This app connects to the following enpoint created at Google Cloud Platform <a "
 
 The enpoint has a single GET method called getTopMusicTracks which will return a JSON array of the top ten music tracks in the database (demo).
 
+
 The app itself uses different libraries to enable clean and easy to explain code,
 
 Libraries:
 
-<a href="http://square.github.io/retrofit/">Retrofit<a/> Retrofit for easy and type-safe REST communication 
+<a href="http://square.github.io/retrofit/">Retrofit<a/> Retrofit for easy and type-safe REST communication.
+
 <a href="http://square.github.io/picasso/">Picasso<a/> Picasso for image dowloading and caching.
 
 
